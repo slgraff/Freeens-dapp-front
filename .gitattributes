@@ -1,2 +1,0 @@
-# Treat miniminzed Javascript file as NOT vendored
-app.min.js linguist-vendored=false
